@@ -1,0 +1,12 @@
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\bin\Debug\net8.0\DesiPizza.Shared.deps.json
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\bin\Debug\net8.0\DesiPizza.Shared.dll
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\bin\Debug\net8.0\DesiPizza.Shared.pdb
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\obj\Debug\net8.0\DesiPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\obj\Debug\net8.0\DesiPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\obj\Debug\net8.0\DesiPizza.Shared.AssemblyInfo.cs
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\obj\Debug\net8.0\DesiPizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\obj\Debug\net8.0\DesiPizza.Shared.sourcelink.json
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\obj\Debug\net8.0\DesiPizza.Shared.dll
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\obj\Debug\net8.0\refint\DesiPizza.Shared.dll
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\obj\Debug\net8.0\DesiPizza.Shared.pdb
+C:\Users\prathapa\Downloads\Prathap\Projects\DesiPizza\DesiPizza.Shared\obj\Debug\net8.0\ref\DesiPizza.Shared.dll
